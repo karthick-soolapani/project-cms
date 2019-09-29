@@ -1,0 +1,4 @@
+Ruby 2.6.0 was released on Christmas Day in 2018. A few notable changes include:
+
+- JIT (experimental)
+- RubyVM::AbstractSyntaxTree (experimental)
